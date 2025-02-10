@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Warstwa_2" height="2.2rem" data-name="Warstwa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7262;
+      }
+
+      .cls-2 {
+        fill: #a259ff;
+      }
+
+      .cls-3 {
+        fill: #1abcfe;
+      }
+
+      .cls-4 {
+        fill: #f24e1e;
+      }
+
+      .cls-5 {
+        fill: #0acf83;
+      }
+    </style>
+  </defs>
+  <g id="Warstwa_8" data-name="Warstwa 8">
+    <g>
+      <path id="path0_fill" data-name="path0 fill" class="cls-5" d="M2.5,15c1.38,0,2.5-1.12,2.5-2.5v-2.5h-2.5c-1.38,0-2.5,1.12-2.5,2.5s1.12,2.5,2.5,2.5Z"/>
+      <path id="path1_fill" data-name="path1 fill" class="cls-2" d="M0,7.5c0-1.38,1.12-2.5,2.5-2.5h2.5v5h-2.5c-1.38,0-2.5-1.12-2.5-2.5Z"/>
+      <path id="path1_fill-2" data-name="path1 fill" class="cls-4" d="M0,2.5C0,1.12,1.12,0,2.5,0h2.5v5h-2.5c-1.38,0-2.5-1.12-2.5-2.5Z"/>
+      <path id="path2_fill" data-name="path2 fill" class="cls-1" d="M5,0h2.5c1.38,0,2.5,1.12,2.5,2.5s-1.12,2.5-2.5,2.5h-2.5V0Z"/>
+      <path id="path3_fill" data-name="path3 fill" class="cls-3" d="M10,7.5c0,1.38-1.12,2.5-2.5,2.5s-2.5-1.12-2.5-2.5,1.12-2.5,2.5-2.5,2.5,1.12,2.5,2.5Z"/>
+    </g>
+  </g>
+</svg>
